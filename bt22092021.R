@@ -14,7 +14,6 @@ names(igfdata)
 
 options(width=100)
 
-setwd("c:\\MinhTriHo\\R")
 
 
 
